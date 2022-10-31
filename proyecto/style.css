@@ -1,0 +1,165 @@
+
+#tituloprincipal{
+    margin-bottom: 50px;
+    margin-left: 5px;
+    display: flex;
+    border-style: dashed; /*QUITAR*/
+    border-color: purple; /*QUITAR*/
+    
+}
+
+#logo{
+    margin-right: 10px;
+    width: 100px;            
+    border-style: dashed; /*QUITAR*/
+    border-color: purple; /*QUITAR*/
+}
+.fondo{
+  width:100%;
+  background-image:url(https://img.freepik.com/free-photo/beautiful-shot-sea-with-mountain-distance-clear-sky_181624-2248.jpg?w=1060&t=st=1667135413~exp=1667136013~hmac=7887a090e97afc620aa22a5bff5f02f8a6b0ad91c7beca5682a1789fa27bcb88);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+}
+.contenedorbody{
+   border-style: dashed; /*QUITAR*/
+   border-color: black; /*QUITAR*/
+   margin:25px;
+}
+.Contenedorhtml2{
+   border-style: dashed; /*QUITAR*/
+   border-color: blue; /*QUITAR*/
+   margin-right:600px;
+}
+#subtituloA{
+  margin-left:200px;
+}
+#imagen1{
+  border-style: dashed; /*QUITAR*/
+  border-color: blue; /*QUITAR*/
+}
+#imagen1b{
+  border-style: dashed; /*QUITAR*/
+  border-color: blue; /*QUITAR*/
+  margin-left:40px;
+  margin-top:5px;
+}
+#boton1{
+  margin-left:255px;
+}
+.Contenedorhtml3{
+   border-style: dashed; /*QUITAR*/
+   border-color: blue; /*QUITAR*/
+   margin-left:600px;
+   margin-bottom:100px;
+   position:relative;
+   top:-392.5px;
+}
+#subtitulob{
+   margin-left:200px;
+}
+#imagen2{
+   border-style: dashed; /*QUITAR*/
+  border-color: orange; /*QUITAR*/
+  margin-left:40px;
+  margin-top:5px;
+}
+#boton2{
+  margin-left:255px
+}
+.contenedorfooter{
+  border-style: dashed; /*QUITAR*/
+  border-color: green; /*QUITAR*/
+  background-color: lightblue;
+}
+.nombre{
+  border-style: dashed; /*QUITAR*/
+  border-color: orange; /*QUITAR*/
+  position:relative;
+  margin-left: 1100px;
+  top:-22px;
+}
+.encabezado{
+  margin-bottom: 50px;
+    margin-left: 5px;
+    display: flex;
+    border-style: dashed; /*QUITAR*/
+    border-color: purple; /*QUITAR*/
+}
+
+#fotojordiynico{
+  margin-left:250px;
+}
+#introduccion{
+  border-style: solid; 
+  border-color: black; 
+  margin-left:60px;
+  margin-right:80px;
+}
+#tituloa{
+  color:#4414BF;
+  margin-bottom:20px;
+}
+#imagenrumbos{
+  margin-left:450px;
+  position:relative;
+  margin-top:-55px;
+  
+}
+#textaco{
+   border-style: dashed; /*QUITAR*/
+    border-color: purple; /*QUITAR*/
+  margin-right:750px;
+  margin-left:50px;
+  margin-top:-700px;
+    
+}
+.lodeabajo{
+  margin-top:450px;
+   border-style: dashed; /*QUITAR*/
+    border-color: red; /*QUITAR*/
+}
+.maniobras{
+   border-style: dashed; /*QUITAR*/
+    border-color: green; /*QUITAR*/
+}
+#titulomaniobras{
+  color:#E50071;
+}
+.virada{
+  margin-right:700px;
+}
+.trasluchada{
+  margin-left:700px;
+  margin-top:-100px;
+  position:relative;
+}
+#tituloclases{
+  color:#274E13;
+}
+.standart{
+  border-style: dashed; /*QUITAR*/
+    border-color: green; /*QUITAR*/
+  margin-left:50px;
+}
+.mixto{
+  border-style: dashed; /*QUITAR*/
+    border-color: green; /*QUITAR*/
+  margin-left:650px;
+  margin-top:-312px;
+}
+.nacra{
+  margin-left:50px;
+}
+.er{
+  margin-left:650px;
+  margin-top:-312px;
+}
+.wind{
+  margin-left:50px;
+}
+.kite{
+  margin-left:650px;
+  margin-top:-312px;
+  margin-bottom:50px;
+}
