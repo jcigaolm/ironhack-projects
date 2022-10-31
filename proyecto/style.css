@@ -4,16 +4,13 @@
     margin-bottom: 50px;
     margin-left: 5px;
     display: flex;
-    border-style: dashed; /*QUITAR*/
-    border-color: purple; /*QUITAR*/
     
 }
 
 #logo{
     margin-right: 10px;
     width: 100px;            
-    border-style: dashed; /*QUITAR*/
-    border-color: purple; /*QUITAR*/
+   
 }
 .fondo{
   width:100%;
@@ -23,25 +20,18 @@
   background-position:center;
 }
 .contenedorbody{
-   border-style: dashed; /*QUITAR*/
-   border-color: black; /*QUITAR*/
+
    margin:25px;
 }
 .Contenedorhtml2{
-   border-style: dashed; /*QUITAR*/
-   border-color: blue; /*QUITAR*/
+  
    margin-right:600px;
 }
 #subtituloA{
   margin-left:200px;
 }
-#imagen1{
-  border-style: dashed; /*QUITAR*/
-  border-color: blue; /*QUITAR*/
-}
+
 #imagen1b{
-  border-style: dashed; /*QUITAR*/
-  border-color: blue; /*QUITAR*/
   margin-left:40px;
   margin-top:5px;
 }
@@ -49,8 +39,6 @@
   margin-left:255px;
 }
 .Contenedorhtml3{
-   border-style: dashed; /*QUITAR*/
-   border-color: blue; /*QUITAR*/
    margin-left:600px;
    margin-bottom:100px;
    position:relative;
@@ -60,8 +48,6 @@
    margin-left:200px;
 }
 #imagen2{
-   border-style: dashed; /*QUITAR*/
-  border-color: orange; /*QUITAR*/
   margin-left:40px;
   margin-top:5px;
 }
@@ -69,13 +55,9 @@
   margin-left:255px
 }
 .contenedorfooter{
-  border-style: dashed; /*QUITAR*/
-  border-color: green; /*QUITAR*/
   background-color: lightblue;
 }
 .nombre{
-  border-style: dashed; /*QUITAR*/
-  border-color: orange; /*QUITAR*/
   position:relative;
   margin-left: 1100px;
   top:-22px;
@@ -84,8 +66,6 @@
   margin-bottom: 50px;
     margin-left: 5px;
     display: flex;
-    border-style: dashed; /*QUITAR*/
-    border-color: purple; /*QUITAR*/
 }
 
 #fotojordiynico{
@@ -108,8 +88,6 @@
   
 }
 #textaco{
-   border-style: dashed; /*QUITAR*/
-    border-color: purple; /*QUITAR*/
   margin-right:750px;
   margin-left:50px;
   margin-top:-700px;
@@ -117,12 +95,6 @@
 }
 .lodeabajo{
   margin-top:450px;
-   border-style: dashed; /*QUITAR*/
-    border-color: red; /*QUITAR*/
-}
-.maniobras{
-   border-style: dashed; /*QUITAR*/
-    border-color: green; /*QUITAR*/
 }
 #titulomaniobras{
   color:#E50071;
@@ -139,29 +111,25 @@
   color:#274E13;
 }
 .standart{
-  border-style: dashed; /*QUITAR*/
-    border-color: green; /*QUITAR*/
   margin-left:50px;
 }
 .mixto{
-  border-style: dashed; /*QUITAR*/
-    border-color: green; /*QUITAR*/
   margin-left:650px;
-  margin-top:-315px;
+  margin-top:-314px;
 }
 .nacra{
   margin-left:50px;
 }
 .er{
   margin-left:650px;
-  margin-top:-315px;
+  margin-top:-314px;
 }
 .wind{
   margin-left:50px;
 }
 .kite{
   margin-left:650px;
-  margin-top:-315px;
+  margin-top:-314px;
   margin-bottom:50px;
 }
 
