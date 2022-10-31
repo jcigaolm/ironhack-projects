@@ -1,4 +1,5 @@
 
+
 #tituloprincipal{
     margin-bottom: 50px;
     margin-left: 5px;
@@ -146,20 +147,37 @@
   border-style: dashed; /*QUITAR*/
     border-color: green; /*QUITAR*/
   margin-left:650px;
-  margin-top:-312px;
+  margin-top:-315px;
 }
 .nacra{
   margin-left:50px;
 }
 .er{
   margin-left:650px;
-  margin-top:-312px;
+  margin-top:-315px;
 }
 .wind{
   margin-left:50px;
 }
 .kite{
   margin-left:650px;
-  margin-top:-312px;
+  margin-top:-315px;
+  margin-bottom:50px;
+}
+
+.todo{
+  margin-left:500px;
+
+  
+}
+.correoa{
+  margin-left:9px;
+}
+.comentarioa{
+  margin-left:-20px;
+  margin-bottom:10px;
+}
+
+#botonenviar{
   margin-bottom:50px;
 }
